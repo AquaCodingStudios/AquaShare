@@ -15,3 +15,5 @@ npm run dev -- --port 3000
 ```
 
 3. open http://localhost:3000
+
+for code check the 2 branches
